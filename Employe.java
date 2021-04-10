@@ -3,3 +3,5 @@ nom
 prenom
 age
 dateNaissance
+sexe
+
